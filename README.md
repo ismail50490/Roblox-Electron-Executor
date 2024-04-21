@@ -9,7 +9,7 @@ Roblox Electron Executor is tailored to empower players with full control over t
 
 ## Features :
 
-- *FARM FREE ROBUX*12
+- *FARM FREE ROBUX*
 - *DUPE*
 - *SKINCHANGER*
 - *AUTOFARM*
